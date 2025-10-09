@@ -1,4 +1,8 @@
-# 🍫 Chocolate Sales Dashboard – Power BI Project  
+<img width="1014" height="531" alt="Screenshot 2025-10-09 at 11 07 51" src="https://github.com/user-attachments/assets/a64ccbf3-7c00-4d8e-97fd-c3f22942cd1c" /># 🍫 Chocolate Sales Dashboard – Power BI Project  
+
+
+<img width="1014" height="531" alt="Screenshot 2025-10-09 at 11 07 51" src="https://github.com/user-attachments/assets/d9d2c7c1-4c36-404a-80bf-db78e029d8e7" />
+
 
 ## 📊 Project Overview  
 This Power BI dashboard provides an interactive visualization of chocolate shipments and sales data. It analyzes key performance metrics such as total sales, shipment volume, product performance, and customer trends to deliver actionable business insights.  
